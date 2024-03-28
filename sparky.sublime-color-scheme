@@ -1,0 +1,94 @@
+{
+    "name": "Sparky Colors",
+    "variables":
+    {
+        "tint":"#F46",
+        "blue":"#39F",
+        "light_blue":"#9BF",
+        "yellow":"#FD8",
+        "gold":"#FA4",
+        "red":"#F45",
+        "green":"#60FFA0",
+        "lime":"#80FF50",
+        "purple":"#B080FF",
+        "pink":"#F9D",
+        "black":"#000",
+        "white":"#FFF",
+        "default":"#DCF"
+    },
+    "globals":
+    {
+        "background":"#14121A",
+        "foreground":"var(default)",
+        "caret": "var(white)",
+        "selection":"#000",
+        "selection_corner_radius":"6",
+        "brackets_options":"bold",
+        "bracket_contents_options":"foreground",
+        "brackets_foreground":"var(tint)",
+        "fold_marker":"var(tint)",
+        "line_highlight":"#000",
+        "find_highlight":"var(white)",
+        "font_style":"glow"
+    },
+    "rules":
+    [
+        {
+            "name": "Name",
+            "scope": "entity.name",
+            "foreground": "var(red)"
+        },
+        {
+            "name": "Name",
+            "scope": "entity.name.tag",
+            "foreground": "var(gold)"
+        },
+        {
+            "name": "Name",
+            "scope": "entity.name.function",
+            "foreground": "var(green)"
+        },
+        {
+            "name": "Comment",
+            "scope": "comment",
+            "foreground": "#767",
+            "font_style": "italic glow"
+        },
+        {
+            "name": "String",
+            "scope": "string",
+            "foreground": "var(light_blue)"
+        },
+        {
+            "name": "Literal",
+            "scope": "constant",
+            "foreground": "var(gold)",
+            "font_style": "italic glow"
+        },
+        {
+            "name": "Number",
+            "scope": "constant.character.escape",
+            "foreground": "var(pink)"
+        },
+        {
+            "name": "Variable",
+            "scope": "variable",
+            "foreground": "var(yellow)"
+        },
+        {
+            "name": "VariableF",
+            "scope": "variable.function",
+            "foreground": "var(green)"
+        },
+        {
+            "name": "Keyword",
+            "scope": "keyword",
+            "foreground": "var(purple)"
+        },
+        {
+            "name": "KeywordOp",
+            "scope": "keyword.operator",
+            "foreground": "var(pink)"
+        }
+    ]
+}

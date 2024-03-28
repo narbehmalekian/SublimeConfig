@@ -1,0 +1,46 @@
+{
+	"color_scheme": "Packages/User/sparky.sublime-color-scheme",
+	"font_face": "FiraCode",
+	"font_size": 13,
+	"highlight_line": true,
+	"highlight_gutter": true,
+	"line_padding_top": 3,
+	"line_padding_bottom": 3,
+	"theme": "Adaptive.sublime-theme",
+	"draw_white_space": [
+		"selection",
+		"trailing",
+		"isolated",
+		"leading_mixed"],
+	"draw_unicode_white_space": "all",
+	"margin": 0,
+
+	"caret_style": "phase",
+	"caret_extra_top": 3,
+	"caret_extra_bottom": 3,
+
+	"scroll_past_end": 0.7,
+	"scroll_context_lines": 1,
+	"control_character_style": "names",
+	"indent_guide_options": ["draw_normal","draw_active","solid"],
+	"save_on_focus_lost": true,
+	"auto_find_in_selection": true,
+	"scroll_speed": 0.5,
+	"bold_folder_labels": true,
+
+	"open_tabs_after_current": false,
+	"auto_hide_tabs": true,
+	"hide_new_tab_button": true,
+	"highlight_modified_tabs": true,
+	"word_wrap": true,
+
+	"show_encoding": true,
+	"show_line_endings": true,
+	"show_project_first": true,
+	"ignored_packages":
+	[
+		"Anaconda",
+		"Vintage",
+	],
+	"index_files": true,
+}
