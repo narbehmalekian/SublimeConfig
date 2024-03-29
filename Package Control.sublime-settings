@@ -5,12 +5,6 @@
 	],
 	"installed_packages":
 	[
-		"Anaconda",
-		"FileIcons",
-		"Origami",
-		"Package Control",
-		"PowerShell",
-		"Terminus",
 		"BracketHighlighter",
 	],
 }
