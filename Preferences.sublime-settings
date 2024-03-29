@@ -19,6 +19,10 @@
 	"caret_extra_top": 3,
 	"caret_extra_bottom": 3,
 
+	"match_brackets": false,
+	"match_brackets_content": false,
+	"match_tags": false,
+
 	"scroll_past_end": 0.7,
 	"scroll_context_lines": 1,
 	"control_character_style": "names",
