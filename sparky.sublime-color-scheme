@@ -21,7 +21,7 @@
         "background":"#14121A",
         "foreground":"var(default)",
         "caret": "var(white)",
-        "selection":"#9070FF38",
+        "selection":"#9070FF30",
         "selection_corner_radius":"6",
         "brackets_options":"bold",
         "bracket_contents_options":"foreground",
