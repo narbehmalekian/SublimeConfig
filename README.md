@@ -2,7 +2,7 @@
 
 An ultra-dark purple space vibes theme with colors halfway between neon and pastel.
 
-<img width="1280" alt="sublimetheme" src="https://github.com/narbehmalekian/SublimeConfig/assets/47128964/b97483dd-e8ef-454a-bc1b-600f12138063">
+![image](https://github.com/narbehmalekian/SublimeConfig/assets/47128964/856f4a92-c078-4b7c-bda5-eb534934f804)
 
 ---
 
