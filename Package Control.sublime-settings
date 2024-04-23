@@ -6,5 +6,6 @@
 	"installed_packages":
 	[
 		"BracketHighlighter",
+		"Package Control",
 	],
 }
