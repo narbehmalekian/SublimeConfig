@@ -4,7 +4,7 @@
         "default": {
             "icon": "dot",
             "color": "region.yellowish brackethighlighter.default",
-            "style": "solid"
+            "style": "underline"
             // styles include: (`solid`|`outline`|`underline`|`thin_underline`|`squiggly`|`stippled`)
         },
         "unmatched": {
